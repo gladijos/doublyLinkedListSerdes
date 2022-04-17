@@ -1,0 +1,6 @@
+Checks:          'boost-*, bugprone-*, cert-*, clang-*, cppcoreguidelines-*, misc-*, modernize-*, performance-*, readability-*, -cppcoreguidelines-owning-memory, -cppcoreguidelines-pro-type-reinterpret-cast, -cppcoreguidelines-pro-type-cstyle-cast, -cppcoreguidelines-pro-type-vararg, -cppcoreguidelines-pro-bounds-pointer-arithmetic, -readability-redundant-string-init'
+WarningsAsErrors: 'clang-diagnostic-return-type'
+HeaderFilterRegex: ''
+AnalyzeTemporaryDtors: false
+FormatStyle:     file
+User:            user
